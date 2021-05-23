@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1621512687 source:d:\programspractice\nitkartseb\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+
+1621774393 source:d:\programspractice\nitkartseb\nitkartseb.cpp
+	<fstream>
+	<iostream>
+	<stdlib.h>
+	<string>
+	<conio.h>
+
